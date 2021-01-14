@@ -29,3 +29,5 @@ while I != 0:
     file.write(str(I)+'\n')
     file.close()
     A==1
+
+    # Wesh wesh canne à pêche
