@@ -29,3 +29,5 @@ while I != 0:
     file.write(str(I)+'\n')
     file.close()
     A==1
+
+#fin du programme
